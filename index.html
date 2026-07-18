@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acrylics Color Schemer</title>
+    <!-- Use Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- html2canvas for image export -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        
+        <!-- Sidebar: Paint Selection -->
+        <aside class="sidebar">
+            <header class="sidebar-header">
+                <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 16px;">
+                    <h1 style="margin-bottom: 0;">Acrylic <span class="highlight">Schemer</span></h1>
+                    <select id="seriesSelect" style="background: rgba(0,0,0,0.2); border: 1px solid var(--border-color); color: var(--text-primary); padding: 6px; border-radius: 6px; font-size: 0.85rem; outline: none; cursor: pointer;">
+                        <option value="open">Open Acrylics</option>
+                        <option value="heavy_body">Heavy Body</option>
+                    </select>
+                </div>
+                <p>Select your base paint and indicate what you own.</p>
+                
+                <div class="search-bar">
+                    <i class="fa fa-search"></i>
+                    <input type="text" id="searchInput" placeholder="Search paints...">
+                </div>
+                <div style="margin-top: 12px; display: flex; align-items: center; gap: 8px;">
+                    <input type="checkbox" id="showOwnedOnly" style="cursor: pointer; width: 16px; height: 16px;">
+                    <label for="showOwnedOnly" style="font-size: 0.85rem; color: var(--text-secondary); cursor: pointer; user-select: none;">Show only owned colors</label>
+                </div>
+            </header>
+            
+            <div class="paints-grid" id="paintsGrid">
+                <!-- Paint items will be injected here via JS -->
+            </div>
+        </aside>
+
+        <!-- Main Area: Harmony Generator -->
+        <main class="main-content">
+            <header class="main-header">
+                <div class="harmony-controls">
+                    <button class="harmony-btn active" data-harmony="complementary">Complementary</button>
+                    <button class="harmony-btn" data-harmony="analogous">Analogous</button>
+                    <button class="harmony-btn" data-harmony="triadic">Triadic</button>
+                    <button class="harmony-btn" data-harmony="split">Split Comp.</button>
+                    <button class="harmony-btn" data-harmony="square">Square</button>
+                    <button class="harmony-btn" data-harmony="pentadic">Pentadic</button>
+                    <button class="harmony-btn" data-harmony="hexadic">Hexadic</button>
+                    <button class="harmony-btn" data-harmony="monochromatic">Monochromatic</button>
+                </div>
+                
+                <div class="slider-container" style="display: flex; align-items: center; gap: 12px;">
+                    <label for="lightnessSlider" style="font-size: 0.85rem; color: var(--text-secondary); font-weight: 600;">Tint / Shade:</label>
+                    <input type="range" id="lightnessSlider" min="-50" max="50" value="0" style="width: 120px;">
+                    <span id="lightnessValue" style="font-size: 0.85rem; font-weight: 800; min-width: 30px; text-align: right;">0</span>
+                </div>
+
+                <button id="exportBtn" class="export-btn">
+                    <i class="fa-solid fa-image"></i> Export PNG
+                </button>
+            </header>
+            
+            <div class="scheme-display-wrapper" id="schemeWrapper">
+                <!-- The generated scheme will be rendered here -->
+                <div class="empty-state">
+                    <i class="fa-solid fa-palette"></i>
+                    <h2>No Base Color Selected</h2>
+                    <p>Select a color from the left panel to generate a harmony.</p>
+                </div>
+            </div>
+        </main>
+
+    </div>
+    
+    <script src="app.js"></script>
+</body>
+</html>
