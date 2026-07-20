@@ -1,0 +1,3798 @@
+{
+  "open": [
+    {
+      "name": "Cadmium Yellow Primrose",
+      "lab": {
+        "L": 89.64,
+        "a": -10.12,
+        "b": 87.29
+      },
+      "rgb": [
+        250,
+        227,
+        18
+      ],
+      "hex": "#FAE312",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Bismuth Vanadate Yellow",
+      "lab": {
+        "L": 89.49,
+        "a": -3.98,
+        "b": 90.03
+      },
+      "rgb": [
+        255,
+        223,
+        0
+      ],
+      "hex": "#FFDF00",
+      "pigment": "PY184",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Benzimidazolone Yellow Light",
+      "lab": {
+        "L": 85.16,
+        "a": 1.94,
+        "b": 86.9
+      },
+      "rgb": [
+        255,
+        208,
+        0
+      ],
+      "hex": "#FFD000",
+      "pigment": "PY175",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Benzimidazolone Yellow Medium",
+      "lab": {
+        "L": 81.82,
+        "a": 13.48,
+        "b": 90.64
+      },
+      "rgb": [
+        255,
+        191,
+        0
+      ],
+      "hex": "#FFBF00",
+      "pigment": "PY154",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Hansa Yellow Opaque",
+      "lab": {
+        "L": 84.01,
+        "a": 10.56,
+        "b": 92.27
+      },
+      "rgb": [
+        255,
+        199,
+        0
+      ],
+      "hex": "#FFC700",
+      "pigment": "PY74",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Yellow Medium",
+      "lab": {
+        "L": 83.71,
+        "a": 12.62,
+        "b": 95.31
+      },
+      "rgb": [
+        255,
+        197,
+        0
+      ],
+      "hex": "#FFC500",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Nickel Azo Yellow",
+      "lab": {
+        "L": 50.16,
+        "a": 17.6,
+        "b": 39.68
+      },
+      "rgb": [
+        164,
+        107,
+        51
+      ],
+      "hex": "#A46B33",
+      "pigment": "PY150",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "India Yellow Hue",
+      "lab": {
+        "L": 52.49,
+        "a": 32.18,
+        "b": 46.35
+      },
+      "rgb": [
+        191,
+        101,
+        45
+      ],
+      "hex": "#BF652D",
+      "pigment": "PY175, PY150, PR122",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Azo Gold",
+      "lab": {
+        "L": 35.46,
+        "a": 17.28,
+        "b": 14.27
+      },
+      "rgb": [
+        116,
+        72,
+        61
+      ],
+      "hex": "#74483D",
+      "pigment": "PR101, PY150",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Yellow Dark",
+      "lab": {
+        "L": 79.17,
+        "a": 24.92,
+        "b": 89.3
+      },
+      "rgb": [
+        255,
+        175,
+        0
+      ],
+      "hex": "#FFAF00",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Diarylide Yellow",
+      "lab": {
+        "L": 75.07,
+        "a": 32.17,
+        "b": 81.09
+      },
+      "rgb": [
+        255,
+        159,
+        0
+      ],
+      "hex": "#FF9F00",
+      "pigment": "PY83(HR70)",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Orange",
+      "lab": {
+        "L": 64.23,
+        "a": 52.92,
+        "b": 66.43
+      },
+      "rgb": [
+        255,
+        110,
+        30
+      ],
+      "hex": "#FF6E1E",
+      "pigment": "PO20",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Pyrrole Orange",
+      "lab": {
+        "L": 56.73,
+        "a": 58.37,
+        "b": 56.59
+      },
+      "rgb": [
+        239,
+        82,
+        37
+      ],
+      "hex": "#EF5225",
+      "pigment": "PO73",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Light",
+      "lab": {
+        "L": 51.39,
+        "a": 59.36,
+        "b": 44.73
+      },
+      "rgb": [
+        222,
+        66,
+        49
+      ],
+      "hex": "#DE4231",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Naphthol Red Light",
+      "lab": {
+        "L": 47.36,
+        "a": 54.03,
+        "b": 37.71
+      },
+      "rgb": [
+        201,
+        63,
+        52
+      ],
+      "hex": "#C93F34",
+      "pigment": "PR112",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Pyrrole Red",
+      "lab": {
+        "L": 43.28,
+        "a": 55.37,
+        "b": 33.46
+      },
+      "rgb": [
+        190,
+        49,
+        50
+      ],
+      "hex": "#BE3132",
+      "pigment": "PR254",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Medium",
+      "lab": {
+        "L": 42.55,
+        "a": 51.46,
+        "b": 29.4
+      },
+      "rgb": [
+        182,
+        54,
+        55
+      ],
+      "hex": "#B63637",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Dark",
+      "lab": {
+        "L": 38.5,
+        "a": 45.22,
+        "b": 21.91
+      },
+      "rgb": [
+        161,
+        52,
+        58
+      ],
+      "hex": "#A1343A",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Pyrrole Red Dark",
+      "lab": {
+        "L": 37.71,
+        "a": 45.63,
+        "b": 22.71
+      },
+      "rgb": [
+        159,
+        50,
+        55
+      ],
+      "hex": "#9F3237",
+      "pigment": "PR264",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Naphthol Red Medium",
+      "lab": {
+        "L": 37.92,
+        "a": 43.65,
+        "b": 23.42
+      },
+      "rgb": [
+        158,
+        53,
+        54
+      ],
+      "hex": "#9E3536",
+      "pigment": "PR5",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone Red",
+      "lab": {
+        "L": 38.38,
+        "a": 40.31,
+        "b": 17.78
+      },
+      "rgb": [
+        154,
+        58,
+        64
+      ],
+      "hex": "#9A3A40",
+      "pigment": "PV19",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Alizarin Crimson Hue",
+      "lab": {
+        "L": 27.36,
+        "a": 7.66,
+        "b": 1.92
+      },
+      "rgb": [
+        77,
+        60,
+        62
+      ],
+      "hex": "#4D3C3E",
+      "pigment": "PR122, PY150, PG7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Maroon",
+      "lab": {
+        "L": 27.62,
+        "a": 6.14,
+        "b": 0.67
+      },
+      "rgb": [
+        75,
+        62,
+        64
+      ],
+      "hex": "#4B3E40",
+      "pigment": "PR122, PR101, PG7, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone Magenta",
+      "lab": {
+        "L": 33.41,
+        "a": 34.34,
+        "b": 9.04
+      },
+      "rgb": [
+        130,
+        53,
+        66
+      ],
+      "hex": "#823542",
+      "pigment": "PR122",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Violet Dark",
+      "lab": {
+        "L": 25.84,
+        "a": 6.82,
+        "b": -3.9
+      },
+      "rgb": [
+        69,
+        58,
+        67
+      ],
+      "hex": "#453A43",
+      "pigment": "PR122, PB60",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Ultramarine Violet",
+      "lab": {
+        "L": 26.51,
+        "a": 18.04,
+        "b": -30.41
+      },
+      "rgb": [
+        63,
+        55,
+        109
+      ],
+      "hex": "#3F376D",
+      "pigment": "PV15",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Dioxazine Purple",
+      "lab": {
+        "L": 25.37,
+        "a": 2.79,
+        "b": 1.42
+      },
+      "rgb": [
+        65,
+        59,
+        58
+      ],
+      "hex": "#413B3A",
+      "pigment": "PV23",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Ultramarine Blue",
+      "lab": {
+        "L": 25.68,
+        "a": 20.45,
+        "b": -38.62
+      },
+      "rgb": [
+        52,
+        53,
+        120
+      ],
+      "hex": "#343578",
+      "pigment": "PB29",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Light Ultramarine Blue",
+      "lab": {
+        "L": 63.33,
+        "a": 1.88,
+        "b": -41.46
+      },
+      "rgb": [
+        99,
+        156,
+        227
+      ],
+      "hex": "#639CE3",
+      "pigment": "PW6, PB29",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cobalt Blue",
+      "lab": {
+        "L": 36.41,
+        "a": 12.3,
+        "b": -49.14
+      },
+      "rgb": [
+        20,
+        84,
+        165
+      ],
+      "hex": "#1454A5",
+      "pigment": "PB28",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cerulean Blue, Chromium",
+      "lab": {
+        "L": 41.26,
+        "a": -11.65,
+        "b": -32.69
+      },
+      "rgb": [
+        0,
+        105,
+        151
+      ],
+      "hex": "#006997",
+      "pigment": "PB36",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Anthraquinone Blue",
+      "lab": {
+        "L": 23.88,
+        "a": 3.71,
+        "b": -4.77
+      },
+      "rgb": [
+        59,
+        55,
+        64
+      ],
+      "hex": "#3B3740",
+      "pigment": "PB60",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Prussian Blue Hue",
+      "lab": {
+        "L": 24.1,
+        "a": 1.98,
+        "b": -2.61
+      },
+      "rgb": [
+        59,
+        56,
+        61
+      ],
+      "hex": "#3B383D",
+      "pigment": "PBk9, PB15:0, PV23",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Phthalo Blue (Red Shade)",
+      "lab": {
+        "L": 25.19,
+        "a": 6.93,
+        "b": -15.24
+      },
+      "rgb": [
+        58,
+        57,
+        83
+      ],
+      "hex": "#3A3953",
+      "pigment": "PB15:0",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Phthalo Blue (Green Shade)",
+      "lab": {
+        "L": 26.01,
+        "a": 6.29,
+        "b": -17.62
+      },
+      "rgb": [
+        56,
+        60,
+        88
+      ],
+      "hex": "#383C58",
+      "pigment": "PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Light Phthalo Blue",
+      "lab": {
+        "L": 82.93,
+        "a": -17.25,
+        "b": -19.78
+      },
+      "rgb": [
+        141,
+        218,
+        243
+      ],
+      "hex": "#8DDAF3",
+      "pigment": "PW6, PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Manganese Blue Hue",
+      "lab": {
+        "L": 38.31,
+        "a": -13.73,
+        "b": -30.4
+      },
+      "rgb": [
+        0,
+        99,
+        139
+      ],
+      "hex": "#00638B",
+      "pigment": "PB15:3, PW6, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Teal",
+      "lab": {
+        "L": 62.6,
+        "a": -38.74,
+        "b": -12.87
+      },
+      "rgb": [
+        0,
+        170,
+        173
+      ],
+      "hex": "#00AAAD",
+      "pigment": "PW6, PG7, PB15:3",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cobalt Teal",
+      "lab": {
+        "L": 58.12,
+        "a": -44.28,
+        "b": -11.58
+      },
+      "rgb": [
+        0,
+        160,
+        159
+      ],
+      "hex": "#00A09F",
+      "pigment": "PG50",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cobalt Turquoise",
+      "lab": {
+        "L": 41.68,
+        "a": -28.32,
+        "b": -8.44
+      },
+      "rgb": [
+        0,
+        111,
+        111
+      ],
+      "hex": "#006F6F",
+      "pigment": "PB36",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Phthalo Green (Blue Shade)",
+      "lab": {
+        "L": 26.38,
+        "a": -7.35,
+        "b": -3.26
+      },
+      "rgb": [
+        46,
+        66,
+        67
+      ],
+      "hex": "#2E4243",
+      "pigment": "PG7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Viridian Green Hue",
+      "lab": {
+        "L": 35.09,
+        "a": -20.9,
+        "b": 0.02
+      },
+      "rgb": [
+        36,
+        91,
+        82
+      ],
+      "hex": "#245B52",
+      "pigment": "PBr7, PW6, PB15:3, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Phthalo Green (Yellow Shade)",
+      "lab": {
+        "L": 30.79,
+        "a": -20.63,
+        "b": 3.67
+      },
+      "rgb": [
+        32,
+        81,
+        66
+      ],
+      "hex": "#205142",
+      "pigment": "PG36",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Green Light",
+      "lab": {
+        "L": 42.44,
+        "a": -41.03,
+        "b": 14.58
+      },
+      "rgb": [
+        0,
+        116,
+        75
+      ],
+      "hex": "#00744B",
+      "pigment": "PY175, PG7, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cobalt Green",
+      "lab": {
+        "L": 34.1,
+        "a": -17.2,
+        "b": 2.88
+      },
+      "rgb": [
+        48,
+        88,
+        75
+      ],
+      "hex": "#30584B",
+      "pigment": "PG26",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Jenkins Green",
+      "lab": {
+        "L": 25.35,
+        "a": -2.66,
+        "b": -0.41
+      },
+      "rgb": [
+        55,
+        61,
+        61
+      ],
+      "hex": "#373D3D",
+      "pigment": "PBk9, PG36, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Sap Green Hue",
+      "lab": {
+        "L": 27.83,
+        "a": -4.5,
+        "b": 3.53
+      },
+      "rgb": [
+        61,
+        68,
+        60
+      ],
+      "hex": "#3D443C",
+      "pigment": "PY150, PG36, PBk7, PR101",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Terre Verte Hue",
+      "lab": {
+        "L": 33.64,
+        "a": -6.56,
+        "b": 8.39
+      },
+      "rgb": [
+        74,
+        82,
+        66
+      ],
+      "hex": "#4A5242",
+      "pigment": "PG17, PBr7, PBk9, PY42, PG36",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Chromium Oxide Green Dark",
+      "lab": {
+        "L": 34.1,
+        "a": -10.51,
+        "b": 9.81
+      },
+      "rgb": [
+        69,
+        85,
+        64
+      ],
+      "hex": "#455540",
+      "pigment": "PG17",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Chromium Oxide Green",
+      "lab": {
+        "L": 42.47,
+        "a": -15.34,
+        "b": 16.32
+      },
+      "rgb": [
+        84,
+        107,
+        73
+      ],
+      "hex": "#546B49",
+      "pigment": "PG17",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Green Gold",
+      "lab": {
+        "L": 45.04,
+        "a": -10.8,
+        "b": 29.49
+      },
+      "rgb": [
+        105,
+        111,
+        56
+      ],
+      "hex": "#696F38",
+      "pigment": "PY150, PY175, PG36",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Titan Green Pale",
+      "lab": {
+        "L": 80.78,
+        "a": -5.12,
+        "b": 11.03
+      },
+      "rgb": [
+        199,
+        203,
+        180
+      ],
+      "hex": "#C7CBB4",
+      "pigment": "PW6, PY42, PBr7, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Titan Buff",
+      "lab": {
+        "L": 84.36,
+        "a": 0.75,
+        "b": 15.95
+      },
+      "rgb": [
+        224,
+        209,
+        181
+      ],
+      "hex": "#E0D1B5",
+      "pigment": "PW6:1, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Naples Yellow Hue",
+      "lab": {
+        "L": 76.98,
+        "a": 10.95,
+        "b": 37.37
+      },
+      "rgb": [
+        231,
+        181,
+        121
+      ],
+      "hex": "#E7B579",
+      "pigment": "PW6:1, PW6, PY42, PY83(HR70)",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Yellow Ochre",
+      "lab": {
+        "L": 58.63,
+        "a": 17.62,
+        "b": 42.56
+      },
+      "rgb": [
+        189,
+        128,
+        66
+      ],
+      "hex": "#BD8042",
+      "pigment": "PY42",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Yellow Oxide",
+      "lab": {
+        "L": 62.39,
+        "a": 14.37,
+        "b": 45.25
+      },
+      "rgb": [
+        196,
+        140,
+        69
+      ],
+      "hex": "#C48C45",
+      "pigment": "PY42",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Transparent Yellow Iron Oxide",
+      "lab": {
+        "L": 49.16,
+        "a": 24.61,
+        "b": 29.86
+      },
+      "rgb": [
+        168,
+        99,
+        67
+      ],
+      "hex": "#A86343",
+      "pigment": "PY42",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Raw Sienna",
+      "lab": {
+        "L": 50.96,
+        "a": 16.17,
+        "b": 32.44
+      },
+      "rgb": [
+        162,
+        110,
+        66
+      ],
+      "hex": "#A26E42",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Mars Yellow",
+      "lab": {
+        "L": 47.24,
+        "a": 27.66,
+        "b": 30
+      },
+      "rgb": [
+        167,
+        92,
+        63
+      ],
+      "hex": "#A75C3F",
+      "pigment": "PBr6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Titan Mars Pale",
+      "lab": {
+        "L": 80.75,
+        "a": 13.61,
+        "b": 15.27
+      },
+      "rgb": [
+        236,
+        191,
+        173
+      ],
+      "hex": "#ECBFAD",
+      "pigment": "PW6, PBr6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Transparent Red Iron Oxide",
+      "lab": {
+        "L": 35.66,
+        "a": 21.35,
+        "b": 13.08
+      },
+      "rgb": [
+        121,
+        70,
+        64
+      ],
+      "hex": "#794640",
+      "pigment": "PR101",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Red Oxide",
+      "lab": {
+        "L": 37.51,
+        "a": 27.83,
+        "b": 19.4
+      },
+      "rgb": [
+        137,
+        69,
+        58
+      ],
+      "hex": "#89453A",
+      "pigment": "PR101",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Violet Oxide",
+      "lab": {
+        "L": 31.39,
+        "a": 18.09,
+        "b": 8.29
+      },
+      "rgb": [
+        104,
+        63,
+        62
+      ],
+      "hex": "#683F3E",
+      "pigment": "PR101",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Burnt Sienna",
+      "lab": {
+        "L": 34.38,
+        "a": 17.81,
+        "b": 14.38
+      },
+      "rgb": [
+        114,
+        69,
+        59
+      ],
+      "hex": "#72453B",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Transparent Brown Iron Oxide",
+      "lab": {
+        "L": 30.67,
+        "a": 1.88,
+        "b": 3.33
+      },
+      "rgb": [
+        77,
+        71,
+        67
+      ],
+      "hex": "#4D4743",
+      "pigment": "PR101, PBk7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Burnt Umber",
+      "lab": {
+        "L": 27.64,
+        "a": 4.36,
+        "b": 4.6
+      },
+      "rgb": [
+        75,
+        63,
+        58
+      ],
+      "hex": "#4B3F3A",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Raw Umber",
+      "lab": {
+        "L": 28.05,
+        "a": 1.29,
+        "b": 3.25
+      },
+      "rgb": [
+        70,
+        65,
+        61
+      ],
+      "hex": "#46413D",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Van Dyke Brown Hue",
+      "lab": {
+        "L": 27.23,
+        "a": -0.14,
+        "b": 0.13
+      },
+      "rgb": [
+        64,
+        64,
+        64
+      ],
+      "hex": "#404040",
+      "pigment": "PR101, PBk7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Carbon Black",
+      "lab": {
+        "L": 24.99,
+        "a": 0.05,
+        "b": -0.07
+      },
+      "rgb": [
+        59,
+        59,
+        59
+      ],
+      "hex": "#3B3B3B",
+      "pigment": "PBk7",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Bone Black",
+      "lab": {
+        "L": 23.81,
+        "a": -0.05,
+        "b": -0.34
+      },
+      "rgb": [
+        56,
+        57,
+        57
+      ],
+      "hex": "#383939",
+      "pigment": "PBk9",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Payne&#x27;s Gray",
+      "lab": {
+        "L": 23.7,
+        "a": -0.08,
+        "b": -1.82
+      },
+      "rgb": [
+        55,
+        57,
+        59
+      ],
+      "hex": "#37393B",
+      "pigment": "PB29, PBk7",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Zinc White",
+      "lab": {
+        "L": 94.87,
+        "a": -0.45,
+        "b": 1.67
+      },
+      "rgb": [
+        241,
+        240,
+        237
+      ],
+      "hex": "#F1F0ED",
+      "pigment": "PW4",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Titanium White",
+      "lab": {
+        "L": 97.81,
+        "a": -0.74,
+        "b": 1.02
+      },
+      "rgb": [
+        248,
+        249,
+        247
+      ],
+      "hex": "#F8F9F7",
+      "pigment": "PW6",
+      "opacity": "opaque"
+    },
+    {
+      "name": "N5 Neutral Gray",
+      "lab": {
+        "L": 52.26,
+        "a": 0.16,
+        "b": 0.01
+      },
+      "rgb": [
+        125,
+        125,
+        125
+      ],
+      "hex": "#7D7D7D",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Copper (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Bronze (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Gold (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Bright Gold (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PR101, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Pearl (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Silver (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PBk7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone / Nickel Azo Gold (Discontinued)",
+      "lab": {
+        "L": 34.34,
+        "a": 18.65,
+        "b": 14.23
+      },
+      "rgb": [
+        115,
+        69,
+        59
+      ],
+      "hex": "#73453B",
+      "pigment": "PY150, PO48",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Quinacridone Burnt Orange (Discontinued)",
+      "lab": {
+        "L": 30.75,
+        "a": 17.85,
+        "b": 8.42
+      },
+      "rgb": [
+        102,
+        61,
+        60
+      ],
+      "hex": "#663D3C",
+      "pigment": "PR206",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Quinacridone Crimson (Discontinued)",
+      "lab": {
+        "L": 29.64,
+        "a": 22.43,
+        "b": 6.65
+      },
+      "rgb": [
+        105,
+        55,
+        60
+      ],
+      "hex": "#69373C",
+      "pigment": "PR202, PR206, PV19",
+      "opacity": "transparent"
+    }
+  ],
+  "heavy_body": [
+    {
+      "name": "Titanate Yellow",
+      "lab": {
+        "L": 89.32,
+        "a": -7.07,
+        "b": 54.63
+      },
+      "rgb": [
+        245,
+        226,
+        117
+      ],
+      "hex": "#F5E275",
+      "pigment": "PY53",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cadmium Yellow Primrose",
+      "lab": {
+        "L": 90.16,
+        "a": -10.32,
+        "b": 87.73
+      },
+      "rgb": [
+        251,
+        229,
+        18
+      ],
+      "hex": "#FBE512",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Bismuth Vanadate Yellow",
+      "lab": {
+        "L": 90.47,
+        "a": -4.66,
+        "b": 88.33
+      },
+      "rgb": [
+        255,
+        227,
+        18
+      ],
+      "hex": "#FFE312",
+      "pigment": "PY184",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Light Bismuth Yellow",
+      "lab": {
+        "L": 95.32,
+        "a": -7.48,
+        "b": 40.24
+      },
+      "rgb": [
+        255,
+        244,
+        163
+      ],
+      "hex": "#FFF4A3",
+      "pigment": "PW6, PY184",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Yellow Light",
+      "lab": {
+        "L": 89.85,
+        "a": -4.64,
+        "b": 94.6
+      },
+      "rgb": [
+        255,
+        225,
+        0
+      ],
+      "hex": "#FFE100",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Primary Yellow",
+      "lab": {
+        "L": 84.73,
+        "a": 5.34,
+        "b": 86.88
+      },
+      "rgb": [
+        255,
+        204,
+        0
+      ],
+      "hex": "#FFCC00",
+      "pigment": "PY175, PW6, PY74",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Benzimidazolone Yellow Light",
+      "lab": {
+        "L": 83.7,
+        "a": 5.56,
+        "b": 85.79
+      },
+      "rgb": [
+        255,
+        201,
+        0
+      ],
+      "hex": "#FFC900",
+      "pigment": "PY175",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Benzimidazolone Yellow Medium",
+      "lab": {
+        "L": 81.55,
+        "a": 15.72,
+        "b": 90.13
+      },
+      "rgb": [
+        255,
+        189,
+        0
+      ],
+      "hex": "#FFBD00",
+      "pigment": "PY154",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Hansa Yellow Opaque",
+      "lab": {
+        "L": 84.48,
+        "a": 10.79,
+        "b": 91.83
+      },
+      "rgb": [
+        255,
+        200,
+        0
+      ],
+      "hex": "#FFC800",
+      "pigment": "PY74",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Yellow Medium",
+      "lab": {
+        "L": 84.13,
+        "a": 12.86,
+        "b": 94.59
+      },
+      "rgb": [
+        255,
+        198,
+        0
+      ],
+      "hex": "#FFC600",
+      "pigment": "PY35",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Yellow Medium Hue",
+      "lab": {
+        "L": 82.53,
+        "a": 15.55,
+        "b": 89.27
+      },
+      "rgb": [
+        255,
+        191,
+        0
+      ],
+      "hex": "#FFBF00",
+      "pigment": "PY74, PY175, PY83(HR70)",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Nickel Azo Yellow",
+      "lab": {
+        "L": 52.15,
+        "a": 15.91,
+        "b": 42.86
+      },
+      "rgb": [
+        168,
+        113,
+        49
+      ],
+      "hex": "#A87131",
+      "pigment": "PY150",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "India Yellow Hue",
+      "lab": {
+        "L": 55.22,
+        "a": 27.88,
+        "b": 43.24
+      },
+      "rgb": [
+        193,
+        111,
+        57
+      ],
+      "hex": "#C16F39",
+      "pigment": "PY175, PY150, PR122",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Azo Gold",
+      "lab": {
+        "L": 34.23,
+        "a": 20.86,
+        "b": 14.16
+      },
+      "rgb": [
+        117,
+        67,
+        59
+      ],
+      "hex": "#75433B",
+      "pigment": "PR101, PY150",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Benzimidazolone Burnt Orange",
+      "lab": {
+        "L": 27.51,
+        "a": 6.5,
+        "b": 5.63
+      },
+      "rgb": [
+        78,
+        61,
+        57
+      ],
+      "hex": "#4E3D39",
+      "pigment": "PBr25",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Yellow Dark",
+      "lab": {
+        "L": 78.54,
+        "a": 26.42,
+        "b": 87.87
+      },
+      "rgb": [
+        255,
+        173,
+        0
+      ],
+      "hex": "#FFAD00",
+      "pigment": "PY35, PO20",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Isoindolinone Yellow",
+      "lab": {
+        "L": 63.6,
+        "a": 41.6,
+        "b": 64.46
+      },
+      "rgb": [
+        241,
+        120,
+        31
+      ],
+      "hex": "#F1781F",
+      "pigment": "PY110",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Diarylide Yellow",
+      "lab": {
+        "L": 75.5,
+        "a": 31.95,
+        "b": 80.36
+      },
+      "rgb": [
+        255,
+        160,
+        0
+      ],
+      "hex": "#FFA000",
+      "pigment": "PY83(HR70)",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cadmium Orange",
+      "lab": {
+        "L": 64.39,
+        "a": 52.7,
+        "b": 65.82
+      },
+      "rgb": [
+        255,
+        111,
+        32
+      ],
+      "hex": "#FF6F20",
+      "pigment": "PO20",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Vat Orange",
+      "lab": {
+        "L": 55.99,
+        "a": 55.09,
+        "b": 52.34
+      },
+      "rgb": [
+        232,
+        85,
+        44
+      ],
+      "hex": "#E8552C",
+      "pigment": "PO43",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Pyrrole Orange",
+      "lab": {
+        "L": 57.02,
+        "a": 58.2,
+        "b": 57.09
+      },
+      "rgb": [
+        240,
+        84,
+        36
+      ],
+      "hex": "#F05424",
+      "pigment": "PO73",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Light Orange",
+      "lab": {
+        "L": 85.2,
+        "a": 17.31,
+        "b": 25
+      },
+      "rgb": [
+        255,
+        200,
+        167
+      ],
+      "hex": "#FFC8A7",
+      "pigment": "PW6, PY184, PO73",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cadmium Red Light",
+      "lab": {
+        "L": 52.06,
+        "a": 58.85,
+        "b": 44.59
+      },
+      "rgb": [
+        223,
+        69,
+        51
+      ],
+      "hex": "#DF4533",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Pyrrole Red Light",
+      "lab": {
+        "L": 48.27,
+        "a": 57.82,
+        "b": 39.46
+      },
+      "rgb": [
+        209,
+        60,
+        51
+      ],
+      "hex": "#D13C33",
+      "pigment": "PR255",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Naphthol Red Light",
+      "lab": {
+        "L": 47.65,
+        "a": 52.34,
+        "b": 37.15
+      },
+      "rgb": [
+        200,
+        66,
+        53
+      ],
+      "hex": "#C84235",
+      "pigment": "PR112",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Pyrrole Red",
+      "lab": {
+        "L": 43.54,
+        "a": 54.93,
+        "b": 33.22
+      },
+      "rgb": [
+        190,
+        51,
+        51
+      ],
+      "hex": "#BE3333",
+      "pigment": "PR254",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Medium",
+      "lab": {
+        "L": 42.93,
+        "a": 51.21,
+        "b": 29.2
+      },
+      "rgb": [
+        183,
+        55,
+        56
+      ],
+      "hex": "#B73738",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Medium Hue",
+      "lab": {
+        "L": 42.29,
+        "a": 46.66,
+        "b": 29.22
+      },
+      "rgb": [
+        176,
+        60,
+        54
+      ],
+      "hex": "#B03C36",
+      "pigment": "PR5, PR112",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cadmium Red Dark",
+      "lab": {
+        "L": 39.01,
+        "a": 45.02,
+        "b": 21.97
+      },
+      "rgb": [
+        162,
+        54,
+        59
+      ],
+      "hex": "#A2363B",
+      "pigment": "PR108",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Pyrrole Red Dark",
+      "lab": {
+        "L": 38.22,
+        "a": 45.84,
+        "b": 22.93
+      },
+      "rgb": [
+        161,
+        51,
+        56
+      ],
+      "hex": "#A13338",
+      "pigment": "PR264",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Primary Magenta",
+      "lab": {
+        "L": 40.99,
+        "a": 46.94,
+        "b": 22.68
+      },
+      "rgb": [
+        171,
+        57,
+        62
+      ],
+      "hex": "#AB393E",
+      "pigment": "PV19",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Light Magenta",
+      "lab": {
+        "L": 72.92,
+        "a": 37.89,
+        "b": 2.3
+      },
+      "rgb": [
+        245,
+        152,
+        176
+      ],
+      "hex": "#F598B0",
+      "pigment": "PW6, PR112",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Naphthol Red Medium",
+      "lab": {
+        "L": 37.89,
+        "a": 42.14,
+        "b": 23.15
+      },
+      "rgb": [
+        156,
+        55,
+        54
+      ],
+      "hex": "#9C3736",
+      "pigment": "PR5",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Naphthol Pink",
+      "lab": {
+        "L": 54.59,
+        "a": 52.61,
+        "b": 19.43
+      },
+      "rgb": [
+        218,
+        86,
+        100
+      ],
+      "hex": "#DA5664",
+      "pigment": "PW6, PR112",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone Red",
+      "lab": {
+        "L": 38.86,
+        "a": 43.56,
+        "b": 18.86
+      },
+      "rgb": [
+        159,
+        56,
+        63
+      ],
+      "hex": "#9F383F",
+      "pigment": "PV19",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Alizarin Crimson Hue",
+      "lab": {
+        "L": 27.93,
+        "a": 9.66,
+        "b": 2.22
+      },
+      "rgb": [
+        82,
+        61,
+        63
+      ],
+      "hex": "#523D3F",
+      "pigment": "PR122, PY150, PG7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Maroon",
+      "lab": {
+        "L": 26.34,
+        "a": 5.23,
+        "b": -0.06
+      },
+      "rgb": [
+        70,
+        60,
+        63
+      ],
+      "hex": "#463C3F",
+      "pigment": "PR122, PY150, PR101, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone Magenta",
+      "lab": {
+        "L": 31.07,
+        "a": 25.99,
+        "b": 5.11
+      },
+      "rgb": [
+        112,
+        56,
+        66
+      ],
+      "hex": "#703842",
+      "pigment": "PR122",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Medium Magenta",
+      "lab": {
+        "L": 50.54,
+        "a": 47.76,
+        "b": -15.54
+      },
+      "rgb": [
+        185,
+        85,
+        148
+      ],
+      "hex": "#B95594",
+      "pigment": "PW6, PR122",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone Violet",
+      "lab": {
+        "L": 29.38,
+        "a": 23.43,
+        "b": 6.72
+      },
+      "rgb": [
+        105,
+        54,
+        60
+      ],
+      "hex": "#69363C",
+      "pigment": "PV19",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Violet Dark",
+      "lab": {
+        "L": 26.72,
+        "a": 6.69,
+        "b": -2.95
+      },
+      "rgb": [
+        72,
+        60,
+        68
+      ],
+      "hex": "#483C44",
+      "pigment": "PR122, PB60",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cobalt Violet Hue",
+      "lab": {
+        "L": 28.63,
+        "a": 16.94,
+        "b": -5.75
+      },
+      "rgb": [
+        89,
+        58,
+        77
+      ],
+      "hex": "#593A4D",
+      "pigment": "PV19, PW6, PR122, PV23",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Medium Violet",
+      "lab": {
+        "L": 33.98,
+        "a": 20.08,
+        "b": -25.16
+      },
+      "rgb": [
+        91,
+        70,
+        120
+      ],
+      "hex": "#5B4678",
+      "pigment": "PW6, PR122, PV23",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Light Violet",
+      "lab": {
+        "L": 51.06,
+        "a": 18.62,
+        "b": -37.55
+      },
+      "rgb": [
+        117,
+        114,
+        186
+      ],
+      "hex": "#7572BA",
+      "pigment": "PW6, PV23",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Ultramarine Violet",
+      "lab": {
+        "L": 24.68,
+        "a": 8.21,
+        "b": -16.02
+      },
+      "rgb": [
+        58,
+        56,
+        83
+      ],
+      "hex": "#3A3853",
+      "pigment": "PV15",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Dioxazine Purple",
+      "lab": {
+        "L": 25.04,
+        "a": 2.62,
+        "b": 1.33
+      },
+      "rgb": [
+        64,
+        58,
+        57
+      ],
+      "hex": "#403A39",
+      "pigment": "PV23",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Smalt Hue",
+      "lab": {
+        "L": 25.43,
+        "a": 3.66,
+        "b": -14.55
+      },
+      "rgb": [
+        53,
+        60,
+        82
+      ],
+      "hex": "#353C52",
+      "pigment": "PB29, PBk7, PV23",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Ultramarine Blue",
+      "lab": {
+        "L": 24.11,
+        "a": 14.01,
+        "b": -27.81
+      },
+      "rgb": [
+        53,
+        52,
+        99
+      ],
+      "hex": "#353463",
+      "pigment": "PB29",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Light Ultramarine Blue",
+      "lab": {
+        "L": 64.56,
+        "a": 0.82,
+        "b": -41.4
+      },
+      "rgb": [
+        100,
+        160,
+        230
+      ],
+      "hex": "#64A0E6",
+      "pigment": "PW6, PB29",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Cobalt Blue",
+      "lab": {
+        "L": 36.18,
+        "a": 11.4,
+        "b": -47.07
+      },
+      "rgb": [
+        26,
+        84,
+        161
+      ],
+      "hex": "#1A54A1",
+      "pigment": "PB28",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cobalt Blue Hue",
+      "lab": {
+        "L": 37.41,
+        "a": 5.51,
+        "b": -43.52
+      },
+      "rgb": [
+        11,
+        89,
+        159
+      ],
+      "hex": "#0B599F",
+      "pigment": "PB29, PW6, PB15:3",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Cerulean Blue, Chromium",
+      "lab": {
+        "L": 40.96,
+        "a": -10.7,
+        "b": -32.37
+      },
+      "rgb": [
+        0,
+        104,
+        149
+      ],
+      "hex": "#006895",
+      "pigment": "PB36",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Anthraquinone Blue",
+      "lab": {
+        "L": 24.13,
+        "a": 3.65,
+        "b": -4.55
+      },
+      "rgb": [
+        60,
+        56,
+        64
+      ],
+      "hex": "#3C3840",
+      "pigment": "PB60",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Prussian Blue Hue",
+      "lab": {
+        "L": 24.13,
+        "a": 1.75,
+        "b": -2.79
+      },
+      "rgb": [
+        58,
+        57,
+        62
+      ],
+      "hex": "#3A393E",
+      "pigment": "PBk9, PB15:0, PV23",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Phthalo Blue (Red Shade)",
+      "lab": {
+        "L": 24.65,
+        "a": 7.8,
+        "b": -14.77
+      },
+      "rgb": [
+        59,
+        56,
+        81
+      ],
+      "hex": "#3B3851",
+      "pigment": "PB15:0",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Phthalo Blue (Green Shade)",
+      "lab": {
+        "L": 25.61,
+        "a": 6.98,
+        "b": -18.05
+      },
+      "rgb": [
+        56,
+        58,
+        88
+      ],
+      "hex": "#383A58",
+      "pigment": "PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Light Phthalo Blue",
+      "lab": {
+        "L": 82.82,
+        "a": -16.79,
+        "b": -19.26
+      },
+      "rgb": [
+        143,
+        217,
+        242
+      ],
+      "hex": "#8FD9F2",
+      "pigment": "PW6, PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Primary Cyan",
+      "lab": {
+        "L": 34.63,
+        "a": -3.19,
+        "b": -32.07
+      },
+      "rgb": [
+        6,
+        86,
+        132
+      ],
+      "hex": "#065684",
+      "pigment": "PB15:3, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cerulean Blue Deep",
+      "lab": {
+        "L": 35.44,
+        "a": -14.95,
+        "b": -20.49
+      },
+      "rgb": [
+        0,
+        91,
+        116
+      ],
+      "hex": "#005B74",
+      "pigment": "PB36",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Manganese Blue Hue",
+      "lab": {
+        "L": 39.45,
+        "a": -15.61,
+        "b": -30.79
+      },
+      "rgb": [
+        0,
+        102,
+        143
+      ],
+      "hex": "#00668F",
+      "pigment": "PB15:3, PW6, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Azurite Hue",
+      "lab": {
+        "L": 31.76,
+        "a": -4.31,
+        "b": -16.38
+      },
+      "rgb": [
+        48,
+        78,
+        100
+      ],
+      "hex": "#304E64",
+      "pigment": "PBr7, PW6, PB15:0",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Teal",
+      "lab": {
+        "L": 63.13,
+        "a": -40.85,
+        "b": -12.3
+      },
+      "rgb": [
+        0,
+        172,
+        173
+      ],
+      "hex": "#00ACAD",
+      "pigment": "PW6, PG7, PB15:3",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cobalt Teal",
+      "lab": {
+        "L": 58.58,
+        "a": -43.11,
+        "b": -12.36
+      },
+      "rgb": [
+        0,
+        161,
+        161
+      ],
+      "hex": "#00A1A1",
+      "pigment": "PG50",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Light Turquoise (Phthalo)",
+      "lab": {
+        "L": 53.17,
+        "a": -47.38,
+        "b": -0.29
+      },
+      "rgb": [
+        0,
+        147,
+        126
+      ],
+      "hex": "#00937E",
+      "pigment": "PW6, PG7, PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Turquoise (Phthalo)",
+      "lab": {
+        "L": 25.62,
+        "a": -1.2,
+        "b": -8.18
+      },
+      "rgb": [
+        52,
+        62,
+        73
+      ],
+      "hex": "#343E49",
+      "pigment": "PG7, PB15:3",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Cobalt Turquoise",
+      "lab": {
+        "L": 42.61,
+        "a": -29.13,
+        "b": -9.43
+      },
+      "rgb": [
+        0,
+        114,
+        115
+      ],
+      "hex": "#007273",
+      "pigment": "PB36",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Phthalo Green (Blue Shade)",
+      "lab": {
+        "L": 26.4,
+        "a": -6.93,
+        "b": -5.36
+      },
+      "rgb": [
+        45,
+        66,
+        70
+      ],
+      "hex": "#2D4246",
+      "pigment": "PG7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Viridian Green Hue",
+      "lab": {
+        "L": 35.25,
+        "a": -22.58,
+        "b": -0.41
+      },
+      "rgb": [
+        29,
+        93,
+        83
+      ],
+      "hex": "#1D5D53",
+      "pigment": "PW6, PB15:3, PBr7, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Phthalo Green (Yellow Shade)",
+      "lab": {
+        "L": 28.94,
+        "a": -15.01,
+        "b": -0.27
+      },
+      "rgb": [
+        38,
+        75,
+        68
+      ],
+      "hex": "#264B44",
+      "pigment": "PG36",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Light Phthalo Green",
+      "lab": {
+        "L": 89.16,
+        "a": -22.03,
+        "b": 3.58
+      },
+      "rgb": [
+        179,
+        236,
+        216
+      ],
+      "hex": "#B3ECD8",
+      "pigment": "PW6, PG36",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Permanent Green Light",
+      "lab": {
+        "L": 43.22,
+        "a": -41.21,
+        "b": 15.75
+      },
+      "rgb": [
+        0,
+        118,
+        75
+      ],
+      "hex": "#00764B",
+      "pigment": "PY175, PG7, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Cobalt Green",
+      "lab": {
+        "L": 34.4,
+        "a": -17.89,
+        "b": 3.1
+      },
+      "rgb": [
+        48,
+        89,
+        75
+      ],
+      "hex": "#30594B",
+      "pigment": "PG26",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Hooker&#x27;s Green Hue",
+      "lab": {
+        "L": 26.5,
+        "a": -2.17,
+        "b": -0.74
+      },
+      "rgb": [
+        59,
+        64,
+        64
+      ],
+      "hex": "#3B4040",
+      "pigment": "PY150, PB60, PR122",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Jenkins Green",
+      "lab": {
+        "L": 25.72,
+        "a": -3.27,
+        "b": -0.24
+      },
+      "rgb": [
+        55,
+        62,
+        61
+      ],
+      "hex": "#373E3D",
+      "pigment": "PBk9, PG36, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Sap Green Hue",
+      "lab": {
+        "L": 28.38,
+        "a": -5.19,
+        "b": 3.87
+      },
+      "rgb": [
+        61,
+        69,
+        61
+      ],
+      "hex": "#3D453D",
+      "pigment": "PY150, PG36, PBk7, PR101",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Terre Verte Hue",
+      "lab": {
+        "L": 33.74,
+        "a": -5.98,
+        "b": 8
+      },
+      "rgb": [
+        75,
+        82,
+        67
+      ],
+      "hex": "#4B5243",
+      "pigment": "PG17, PBk9, PBr7, PY42, PG36",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Chromium Oxide Green Dark",
+      "lab": {
+        "L": 34.4,
+        "a": -10.56,
+        "b": 9.59
+      },
+      "rgb": [
+        69,
+        85,
+        65
+      ],
+      "hex": "#455541",
+      "pigment": "PG17",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Chromium Oxide Green",
+      "lab": {
+        "L": 43.54,
+        "a": -15.67,
+        "b": 16.24
+      },
+      "rgb": [
+        86,
+        109,
+        75
+      ],
+      "hex": "#566D4B",
+      "pigment": "PG17",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Light Green (Blue Shade)",
+      "lab": {
+        "L": 63.8,
+        "a": -47.19,
+        "b": 41.93
+      },
+      "rgb": [
+        82,
+        174,
+        75
+      ],
+      "hex": "#52AE4B",
+      "pigment": "PY175, PW6, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Light Green (Yellow Shade)",
+      "lab": {
+        "L": 73.99,
+        "a": -38.39,
+        "b": 53
+      },
+      "rgb": [
+        140,
+        198,
+        78
+      ],
+      "hex": "#8CC64E",
+      "pigment": "PY175, PW6, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Green Gold",
+      "lab": {
+        "L": 45.05,
+        "a": -10.69,
+        "b": 30.52
+      },
+      "rgb": [
+        106,
+        110,
+        54
+      ],
+      "hex": "#6A6E36",
+      "pigment": "PY150, PG36, PY175",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Titan Green Pale",
+      "lab": {
+        "L": 80.32,
+        "a": -5.08,
+        "b": 12.18
+      },
+      "rgb": [
+        199,
+        201,
+        176
+      ],
+      "hex": "#C7C9B0",
+      "pigment": "PW6, PY42, PBr7, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Titan Buff",
+      "lab": {
+        "L": 83.67,
+        "a": 0.8,
+        "b": 15.52
+      },
+      "rgb": [
+        222,
+        207,
+        180
+      ],
+      "hex": "#DECFB4",
+      "pigment": "PW6:1, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Naples Yellow Hue",
+      "lab": {
+        "L": 76.57,
+        "a": 10.95,
+        "b": 38.04
+      },
+      "rgb": [
+        230,
+        180,
+        119
+      ],
+      "hex": "#E6B477",
+      "pigment": "PW6:1, PW6, PY42, PY83(HR70)",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Naples Yellow Deep",
+      "lab": {
+        "L": 71.61,
+        "a": 18.55,
+        "b": 55.12
+      },
+      "rgb": [
+        232,
+        161,
+        72
+      ],
+      "hex": "#E8A148",
+      "pigment": "PBr24",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Yellow Ochre",
+      "lab": {
+        "L": 57.84,
+        "a": 16.76,
+        "b": 39.65
+      },
+      "rgb": [
+        185,
+        127,
+        69
+      ],
+      "hex": "#B97F45",
+      "pigment": "PY42",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Yellow Oxide",
+      "lab": {
+        "L": 62.23,
+        "a": 14.09,
+        "b": 44.59
+      },
+      "rgb": [
+        195,
+        139,
+        70
+      ],
+      "hex": "#C38B46",
+      "pigment": "PY42",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Transparent Yellow Iron Oxide",
+      "lab": {
+        "L": 45.19,
+        "a": 23.58,
+        "b": 27.13
+      },
+      "rgb": [
+        155,
+        90,
+        63
+      ],
+      "hex": "#9B5A3F",
+      "pigment": "PY42",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Raw Sienna",
+      "lab": {
+        "L": 51.85,
+        "a": 16.32,
+        "b": 32.22
+      },
+      "rgb": [
+        165,
+        112,
+        69
+      ],
+      "hex": "#A57045",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Mars Yellow",
+      "lab": {
+        "L": 47.29,
+        "a": 25.43,
+        "b": 28.15
+      },
+      "rgb": [
+        163,
+        94,
+        66
+      ],
+      "hex": "#A35E42",
+      "pigment": "PBr6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Titan Mars Pale",
+      "lab": {
+        "L": 81.83,
+        "a": 12.46,
+        "b": 13.74
+      },
+      "rgb": [
+        236,
+        195,
+        178
+      ],
+      "hex": "#ECC3B2",
+      "pigment": "PW6, PBr6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Transparent Red Iron Oxide",
+      "lab": {
+        "L": 30.84,
+        "a": 13.71,
+        "b": 5.46
+      },
+      "rgb": [
+        96,
+        65,
+        65
+      ],
+      "hex": "#604141",
+      "pigment": "PR101",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Red Oxide",
+      "lab": {
+        "L": 37.82,
+        "a": 27.39,
+        "b": 19.02
+      },
+      "rgb": [
+        137,
+        70,
+        60
+      ],
+      "hex": "#89463C",
+      "pigment": "PR101",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Violet Oxide",
+      "lab": {
+        "L": 31.96,
+        "a": 18.32,
+        "b": 8.58
+      },
+      "rgb": [
+        106,
+        64,
+        63
+      ],
+      "hex": "#6A403F",
+      "pigment": "PR101",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Titan Violet Pale",
+      "lab": {
+        "L": 86.16,
+        "a": 4.44,
+        "b": -0.43
+      },
+      "rgb": [
+        224,
+        213,
+        216
+      ],
+      "hex": "#E0D5D8",
+      "pigment": "PW6, PR101",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Burnt Sienna",
+      "lab": {
+        "L": 34.24,
+        "a": 17.02,
+        "b": 13.69
+      },
+      "rgb": [
+        112,
+        70,
+        60
+      ],
+      "hex": "#70463C",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Transparent Brown Iron Oxide",
+      "lab": {
+        "L": 28.34,
+        "a": 3.23,
+        "b": 2.45
+      },
+      "rgb": [
+        73,
+        65,
+        63
+      ],
+      "hex": "#49413F",
+      "pigment": "PR101, PBk7",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Burnt Umber Light",
+      "lab": {
+        "L": 29.95,
+        "a": 8.06,
+        "b": 7.39
+      },
+      "rgb": [
+        87,
+        66,
+        59
+      ],
+      "hex": "#57423B",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Burnt Umber",
+      "lab": {
+        "L": 27.33,
+        "a": 4.1,
+        "b": 4.19
+      },
+      "rgb": [
+        73,
+        62,
+        58
+      ],
+      "hex": "#493E3A",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Raw Umber",
+      "lab": {
+        "L": 28.86,
+        "a": 1.94,
+        "b": 3.83
+      },
+      "rgb": [
+        74,
+        67,
+        62
+      ],
+      "hex": "#4A433E",
+      "pigment": "PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Van Dyke Brown Hue",
+      "lab": {
+        "L": 26.83,
+        "a": 0.31,
+        "b": -0.38
+      },
+      "rgb": [
+        64,
+        63,
+        64
+      ],
+      "hex": "#403F40",
+      "pigment": "PR101, PBk7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Carbon Black",
+      "lab": {
+        "L": 25.37,
+        "a": 0.1,
+        "b": -0.14
+      },
+      "rgb": [
+        60,
+        60,
+        60
+      ],
+      "hex": "#3C3C3C",
+      "pigment": "PBk7",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Mars Black",
+      "lab": {
+        "L": 25.47,
+        "a": 0.81,
+        "b": 0.42
+      },
+      "rgb": [
+        62,
+        60,
+        60
+      ],
+      "hex": "#3E3C3C",
+      "pigment": "PBk11",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Bone Black",
+      "lab": {
+        "L": 23.82,
+        "a": -0.05,
+        "b": -0.45
+      },
+      "rgb": [
+        56,
+        57,
+        57
+      ],
+      "hex": "#383939",
+      "pigment": "PBk9",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Payne&#x27;s Gray",
+      "lab": {
+        "L": 23.46,
+        "a": -0.03,
+        "b": -2.22
+      },
+      "rgb": [
+        54,
+        56,
+        59
+      ],
+      "hex": "#36383B",
+      "pigment": "PB29, PBk7",
+      "opacity": "semi-transparent"
+    },
+    {
+      "name": "Graphite Gray",
+      "lab": {
+        "L": 38.92,
+        "a": 0.48,
+        "b": 0.57
+      },
+      "rgb": [
+        93,
+        91,
+        91
+      ],
+      "hex": "#5D5B5B",
+      "pigment": "PBk10",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Zinc White",
+      "lab": {
+        "L": 95.94,
+        "a": -0.85,
+        "b": 0.93
+      },
+      "rgb": [
+        242,
+        244,
+        241
+      ],
+      "hex": "#F2F4F1",
+      "pigment": "PW4",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Titanium White",
+      "lab": {
+        "L": 98.25,
+        "a": -0.74,
+        "b": 1.24
+      },
+      "rgb": [
+        250,
+        250,
+        248
+      ],
+      "hex": "#FAFAF8",
+      "pigment": "PW6",
+      "opacity": "opaque"
+    },
+    {
+      "name": "N2 Neutral Gray",
+      "lab": {
+        "L": 27.93,
+        "a": -0.02,
+        "b": -1.07
+      },
+      "rgb": [
+        65,
+        66,
+        68
+      ],
+      "hex": "#414244",
+      "pigment": "PBk9, PBr7, PW6",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N3 Neutral Gray",
+      "lab": {
+        "L": 34.1,
+        "a": 0.32,
+        "b": -0.33
+      },
+      "rgb": [
+        80,
+        80,
+        81
+      ],
+      "hex": "#505051",
+      "pigment": "PBk9, PW6, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N4 Neutral Gray",
+      "lab": {
+        "L": 43.49,
+        "a": 0.15,
+        "b": -0.42
+      },
+      "rgb": [
+        103,
+        103,
+        103
+      ],
+      "hex": "#676767",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N5 Neutral Gray",
+      "lab": {
+        "L": 51.77,
+        "a": 0.19,
+        "b": 0.07
+      },
+      "rgb": [
+        124,
+        123,
+        123
+      ],
+      "hex": "#7C7B7B",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N6 Neutral Gray",
+      "lab": {
+        "L": 61.82,
+        "a": 0.34,
+        "b": 0.6
+      },
+      "rgb": [
+        150,
+        149,
+        148
+      ],
+      "hex": "#969594",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N7 Neutral Gray",
+      "lab": {
+        "L": 69.85,
+        "a": 0.08,
+        "b": 0.4
+      },
+      "rgb": [
+        171,
+        171,
+        170
+      ],
+      "hex": "#ABABAA",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "N8 Neutral Gray",
+      "lab": {
+        "L": 79.01,
+        "a": 0.18,
+        "b": 0.31
+      },
+      "rgb": [
+        196,
+        195,
+        195
+      ],
+      "hex": "#C4C3C3",
+      "pigment": "PW6, PBk9, PBr7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Copper Light (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Copper Light (Coarse)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Copper (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Copper (Coarse)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Bronze (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PG7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Gold (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Gold (Coarse)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Gold Deep (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Bright Gold (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PR101, PY150",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Gold Mica Flake (Small)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Gold Mica Flake (Large)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Pearl (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Pearl (Coarse)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Pearl Mica Flake (Small)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Silver (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "N/A, PBk7",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Stainless Steel (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Iridescent Stainless Steel (Coarse)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Micaceous Iron Oxide",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "PBr7",
+      "opacity": "opaque"
+    },
+    {
+      "name": "Black Mica Flake (Small)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Coarse Alumina",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Gold (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Orange (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Red (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Violet (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Blue (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Interference Green (Fine)",
+      "lab": {
+        "L": 0,
+        "a": 0,
+        "b": 0
+      },
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "hex": "#000000",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Chartreuse",
+      "lab": {
+        "L": 106.12,
+        "a": -25.69,
+        "b": 129.3
+      },
+      "rgb": [
+        255,
+        255,
+        0
+      ],
+      "hex": "#FFFF00",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Orange-Yellow",
+      "lab": {
+        "L": 80.69,
+        "a": 86.01,
+        "b": 101.73
+      },
+      "rgb": [
+        255,
+        109,
+        0
+      ],
+      "hex": "#FF6D00",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Orange",
+      "lab": {
+        "L": 74.56,
+        "a": 91.25,
+        "b": 89.7
+      },
+      "rgb": [
+        255,
+        75,
+        0
+      ],
+      "hex": "#FF4B00",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Red",
+      "lab": {
+        "L": 64.84,
+        "a": 91.61,
+        "b": 70.37
+      },
+      "rgb": [
+        255,
+        24,
+        32
+      ],
+      "hex": "#FF1820",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Pink",
+      "lab": {
+        "L": 65.24,
+        "a": 93.95,
+        "b": 46.35
+      },
+      "rgb": [
+        255,
+        12,
+        83
+      ],
+      "hex": "#FF0C53",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Magenta",
+      "lab": {
+        "L": 51.27,
+        "a": 79.72,
+        "b": 26.26
+      },
+      "rgb": [
+        243,
+        0,
+        83
+      ],
+      "hex": "#F30053",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Blue",
+      "lab": {
+        "L": 43.18,
+        "a": -7.26,
+        "b": -50.51
+      },
+      "rgb": [
+        0,
+        110,
+        186
+      ],
+      "hex": "#006EBA",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Fluorescent Green",
+      "lab": {
+        "L": 68.13,
+        "a": -74.57,
+        "b": 65.8
+      },
+      "rgb": [
+        0,
+        194,
+        13
+      ],
+      "hex": "#00C20D",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Phosphorescent Green",
+      "lab": {
+        "L": 88.36,
+        "a": -3.23,
+        "b": 13.23
+      },
+      "rgb": [
+        226,
+        223,
+        197
+      ],
+      "hex": "#E2DFC5",
+      "pigment": "Unknown",
+      "opacity": "semi-opaque"
+    },
+    {
+      "name": "Quinacridone / Nickel Azo Gold (Discontinued)",
+      "lab": {
+        "L": 34.34,
+        "a": 18.65,
+        "b": 14.23
+      },
+      "rgb": [
+        115,
+        69,
+        59
+      ],
+      "hex": "#73453B",
+      "pigment": "PY150, PO48",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Quinacridone Burnt Orange (Discontinued)",
+      "lab": {
+        "L": 29.15,
+        "a": 10.72,
+        "b": 4.99
+      },
+      "rgb": [
+        87,
+        63,
+        61
+      ],
+      "hex": "#573F3D",
+      "pigment": "PR206",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Quinacridone Red Light (discontinued)",
+      "lab": {
+        "L": 41.83,
+        "a": 45.16,
+        "b": 21.57
+      },
+      "rgb": [
+        171,
+        61,
+        66
+      ],
+      "hex": "#AB3D42",
+      "pigment": "PR207",
+      "opacity": "transparent"
+    },
+    {
+      "name": "Quinacridone Crimson (Discontinued)",
+      "lab": {
+        "L": 29.15,
+        "a": 10.72,
+        "b": 4.99
+      },
+      "rgb": [
+        87,
+        63,
+        61
+      ],
+      "hex": "#573F3D",
+      "pigment": "PR202, PR206",
+      "opacity": "transparent"
+    }
+  ]
+}
